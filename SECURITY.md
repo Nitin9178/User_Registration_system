@@ -15,8 +15,5 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Hey Guys, I am a freshie and I am about to start my carrier in web development field with PHP. If you see any kind of vulnerability, Please contact me on my E-mail ID
+Nitin.sinha9178@gmail.com and Here we can make a conversation over the vulnerabilities and even we can go ahead if you like.
